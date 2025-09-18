@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Laureano Juárez 👋</h1>
+<h1 align="center">Hola, soy Laureano Juarez 👋</h1>
 <h3 align="center">Desarrollador de software</h3>
 
 ---
@@ -11,9 +11,8 @@
 
 ### Sobre mí
 
-Soy un desarrollador de software con experiencia en el desarrollo de aplicaciones web y de escritorio. Me apasiona resolver problemas complejos y me esfuerzo por escribir código limpio, eficiente y mantenible.
-
-Actualmente, estoy explorando nuevas tecnologías y buscando oportunidades para colaborar en proyectos innovadores.
+Soy desarrollador de software con experiencia en la creación de aplicaciones web y de escritorio.
+Actualmente, estoy cursando la Tecnicatura Universitaria en Programación, lo que me permite profundizar mis conocimientos técnicos y estar al tanto de las últimas tendencias del sector.
 
 ---
 
@@ -49,12 +48,12 @@ Aquí tienes algunas de las tecnologías y herramientas con las que trabajo:
 ### Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laureanojuarez&show_icons=true&locale=es&layout=compact&theme=radical" alt="Estadísticas de Lenguajes de GitHub de Laureano Juárez" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laureanojuarez&show_icons=true&locale=es&layout=compact&theme=radical" alt="Estadísticas de Lenguajes de GitHub de Laureano Juarez" />
 </div>
 
 ---
 
 ### Contacto
 
-- **Email:** [tu_email@ejemplo.com](mailto:tu_email@ejemplo.com)
-- **LinkedIn:** [tu_perfil_de_linkedin](https://www.linkedin.com/in/tu_usuario_de_linkedin)
+- **Email:** [laureanojuarez69@gmail.com](mailto:laureanojuarez69@gmail.com)
+- **LinkedIn:** [laureanojuarez](https://www.linkedin.com/in/laureanojuarez)
