@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Laureano Juarez 👋</h1>
-<h3 align="center">Desarrollador de software</h3>
+<h3 align="center">Desarrollador Full Stack</h3>
 
 ---
 
