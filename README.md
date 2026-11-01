@@ -1,58 +1,65 @@
-<h1 align="center">Hola, soy Laureano Juarez 👋</h1>
-<h3 align="center">Desarrollador Full Stack</h3>
-
----
-
 <div align="center">
-  <a href="https://github.com/laureanojuarez">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Laureano+Juarez+👋;Desarrollador+Full+Stack;Estudiante+de+Programación" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/laureanojuarez" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
-### Sobre mí
-
-Soy desarrollador de software con experiencia en la creación de aplicaciones web y de escritorio.
-Actualmente, estoy cursando la Tecnicatura Universitaria en Programación, lo que me permite profundizar mis conocimientos técnicos y estar al tanto de las últimas tendencias del sector.
+  <a href="mailto:laureanojuarez69@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
-### Habilidades y Tecnologías
+### 👨‍💻 Sobre mí
 
-Aquí tienes algunas de las tecnologías y herramientas con las que trabajo:
-
-#### 💻 Lenguajes de programación
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-#### 🌐 Frameworks y Librerías
-
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-#### 🛠️ Herramientas y Bases de Datos
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 🎓 Cursando la **Tecnicatura Universitaria en Programación**, profundizando en arquitectura de software y buenas prácticas.
+- 💻 Desarrollador con experiencia en la creación de aplicaciones web, móviles y de escritorio.
+- 🌱 Construyendo soluciones enfocadas en **React**, **React Native**, **C# / .NET** y **Python**.
+- 🚀 Apasionado por el desarrollo de software, la resolución de problemas y la escritura de código limpio y eficiente.
 
 ---
 
-### Estadísticas de GitHub
+### 🛠️ Habilidades y Tecnologías
+
+#### 📱 Frontend & Mobile
+<p>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
+</p>
+
+#### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</p>
+
+#### 🗄️ Bases de Datos & Herramientas
+<p>
+  <img src="https://img.shields.io/badge/MySQL-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laureanojuarez&show_icons=true&locale=es&layout=compact&theme=radical" alt="Estadísticas de Lenguajes de GitHub de Laureano Juarez" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=laureanojuarez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=laureanojuarez&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </div>
 
 ---
 
-### Contacto
-
-- **Email:** [laureanojuarez69@gmail.com](mailto:laureanojuarez69@gmail.com)
-- **LinkedIn:** [laureanojuarez](https://www.linkedin.com/in/laureanojuarez)
+<p align="center">
+  📫 ¿Querés ponerte en contacto conmigo o charlar de algún proyecto? Escríbeme a <a href="mailto:laureanojuarez69@gmail.com">laureanojuarez69@gmail.com</a>
+</p>
